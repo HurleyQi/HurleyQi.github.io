@@ -128,12 +128,13 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "HyenaEnhancer (Project/Paper)",
+      "highlights": [
+        "Adapted a Large Language Models (LLM) to predict the functional activity of enhancer sequences.", 
+        "Conducted a comparative analysis of LLM against Convolutional Neural Networks (CNN) for enhancer prediction, exploring the advantages and limitations of each"
+      ],
+      "startDate": "2024-01",
+      "endDate": "Present"
     }
   ]
 }
