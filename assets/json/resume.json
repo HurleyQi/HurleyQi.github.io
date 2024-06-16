@@ -14,15 +14,17 @@
       }
     ]
   },
-  "work": [
+  "Professional Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The Oden Institute for Computational Engineering and Sciences, UT Austin",
+      "position": "Student Associate",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": [
+        "Conduct interviews with distinguished faculty members on advanced multidisciplinary research projects",
+        "Assist graduate students with administrative tasks, including on boarding, coordinating project activities, and others", 
+        "Organize events featuring distinguished speakers, handling logistics such as venue arrangements and promotional activities"
+      ]
     }
   ],
   "volunteer": [
