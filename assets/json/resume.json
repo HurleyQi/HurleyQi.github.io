@@ -18,12 +18,53 @@
     {
       "name": "The Oden Institute for Computational Engineering and Sciences, UT Austin",
       "position": "Student Associate",
-      "startDate": "2023-09-01",
+      "startDate": "2023-09",
       "endDate": "Present",
       "summary": [
         "Conduct interviews with distinguished faculty members on advanced multidisciplinary research projects",
         "Assist graduate students with administrative tasks, including on boarding, coordinating project activities, and others", 
         "Organize events featuring distinguished speakers, handling logistics such as venue arrangements and promotional activities"
+      ]
+    }, 
+    {
+      "name": "PHYZ Lab, UT Austin",
+      "position": "Undergraduate Research Intern",
+      "startDate": "2024-06",
+      "endDate": "Present",
+      "summary": [
+        "Utilized chaos theory, time series analysis, deep learning, neural networks, and mathematical modeling to predict NICU patient health patterns, septic rates, and discharge times. This work, supervised by Dr. Joshua Chang, aimed to enhance medical treatment applications and support healthcare professionals",
+        "Collaborated with medical professionals, clinicians, and distinguished researchers to understand and provide feedback on various projects, including electroceuticals, gait analysis, and delirium forecasting"
+      ]
+    },
+    {
+      "name": "Dr. Can Cenik Lab, UT Austin",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "summary": [
+        "Investigate translation efficiency on C. Elegans genes utilizing in-lab softwares",
+        "Develop advanced methods for functional prediction based on translation efficiency calculations",
+        "Predict novel gene function for C. Elegans genes based and obtained validation from collaborators"
+      ]
+    }, 
+    {
+      "name": "Dr. Stephen Yi Lab, UT Austin",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2023-12",
+      "endDate": "2024-05",
+      "summary": [
+        "Conducted research focused on enhancer motif analysis and DNA functional prediction utilizing machine learning, concurrency, and other computational biology techniques",
+        "Contributed to the curation of a comprehensive antibody/antigen mutation dataset "
+      ]
+    }, 
+    {
+      "name": "Department of Mathematics, UT Austin",
+      "position": "Undergraduate Course Assistant",
+      "startDate": "2023-08",
+      "endDate": "2023-12",
+      "summary": [
+        "Collaborated with instructors on grading criteria, provided constructive feedback to students",
+        "Managed unforeseen challenges, including student medical emergencies and miscommunications, to ensure the smooth flow of the course"
       ]
     }
   ],
