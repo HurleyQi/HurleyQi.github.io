@@ -244,8 +244,6 @@ exclude:
   - _pages/news.md
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _posts
-  - _news
 keep_files:
   - CNAME
   - .nojekyll
