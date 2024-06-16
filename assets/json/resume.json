@@ -14,7 +14,7 @@
       }
     ]
   },
-  "Professional Experience": [
+  "professional experience": [
     {
       "name": "The Oden Institute for Computational Engineering and Sciences, UT Austin",
       "position": "Student Associate",
@@ -30,7 +30,7 @@
   "education": [
     {
       "institution": "The University of Texas at Austin",
-      "location": "Austin, United States of America",
+      "location": "Austin, USA",
       "url": "https://www.utexas.edu/",
       "area": "Computer Science, Mathematics",
       "studyType": "Bachelor's Degree",
