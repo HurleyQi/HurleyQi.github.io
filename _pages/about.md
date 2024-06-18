@@ -19,6 +19,8 @@ I am currently a Computer Science and Mathematics student at [UT Austin](https:/
 
 My currency goal is to pursue a Ph.D. in Computer Science to further develop my skills and expertise in these areas. My research experience includes applying machine learning models to predict DNA functional activity at Dr. Stephen Yi’s Lab. Currently, I am a summer research intern, provided through the [Moncrief Summer Internship Program](https://oden.utexas.edu/academics/undergraduates/moncrief-summer-internship/), at the [PHYZ Lab](https://phyzlab.org/) at UT’s Dell Medical School, working on applying machine learning and mathematical forecasting methods to NICU health data. Additionally, I am an undergraduate research assistant at Dr. [Can Cenik’s Lab](https://ceniklab.github.io/), focusing on computational techniques related to protein abundance and gene expression studies.
 
+In addition to my research experience, I have gained classroom experience as a course assistant in the Department of Mathematics. I am also interested in the administrative aspects of graduate studies, currently serving as a student associate at the administrative office of the Oden Institute.
+
 I am a big fan of Star Wars and The Lord of the Rings. In my free time, I enjoy reading mystery novels and watching professional chess and tennis. Having grown up in China, I am fluent in Mandarin.
 
 Feel free to contact me if we share any interests.

@@ -130,10 +130,28 @@
     {
       "name": "HyenaEnhancer (Project/Paper)",
       "highlights": [
-        "Adapted a Large Language Models (LLM) to predict the functional activity of enhancer sequences.", 
+        "Adapted a Large Language Models (LLM) to predict the functional activity of enhancer sequences", 
         "Conducted a comparative analysis of LLM against Convolutional Neural Networks (CNN) for enhancer prediction, exploring the advantages and limitations of each"
       ],
       "startDate": "2024-01",
+      "endDate": "Present"
+    },
+    {
+      "name": "Student Record System (Project)",
+      "highlights": [
+        "Designed and implemented a three-tier architecture framework utilizing a MySQL database for efficient management of student data, including class schedule and personal information", 
+        "Ensured data persistence through MyBatis and integrated web functionalities using Jakarta Servlet"
+      ],
+      "startDate": "2023-05",
+      "endDate": "2023-06",
+      "url": "https://github.com/HurleyQi/student-record-system"
+    },
+    {
+      "name": "Understanding the Parallelizability of Gibbs Sampling for DNA Motif Finding (Paper in Review)",
+      "highlights": [
+        "Investigated the impact of CUDA parallelizability on parameters and efficiency of Gibbs Sampling motif finding"
+      ],
+      "startDate": "2024-02",
       "endDate": "Present"
     }
   ]
