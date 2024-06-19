@@ -128,6 +128,14 @@
   ],
   "projects": [
     {
+      "name": "Understanding the Parallelizability of Gibbs Sampling for DNA Motif Finding (Paper in Review)",
+      "highlights": [
+        "Investigated the impact of CUDA parallelizability on parameters and efficiency of Gibbs Sampling motif finding"
+      ],
+      "startDate": "2024-02",
+      "endDate": "Present"
+    },
+    {
       "name": "HyenaEnhancer (Project/Paper)",
       "highlights": [
         "Adapted a Large Language Models (LLM) to predict the functional activity of enhancer sequences", 
@@ -145,14 +153,6 @@
       "startDate": "2023-05",
       "endDate": "2023-06",
       "url": "https://github.com/HurleyQi/student-record-system"
-    },
-    {
-      "name": "Understanding the Parallelizability of Gibbs Sampling for DNA Motif Finding (Paper in Review)",
-      "highlights": [
-        "Investigated the impact of CUDA parallelizability on parameters and efficiency of Gibbs Sampling motif finding"
-      ],
-      "startDate": "2024-02",
-      "endDate": "Present"
     }
   ]
 }
