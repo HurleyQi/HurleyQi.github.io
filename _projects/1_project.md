@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Student Record System (Project)
-description: with background image
 img: assets/img/student_record.jpg
 importance: 1
 category: work
