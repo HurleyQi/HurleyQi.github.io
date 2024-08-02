@@ -25,8 +25,6 @@ I am a big fan of Star Wars and The Lord of the Rings. In my free time, I enjoy 
 
 Feel free to contact me if we share any interests.
 
-Special thanks to Maruan Al-Shedivat for the fantastic website template.
-
 
 
 <!-- Hello, testing, testing. 
