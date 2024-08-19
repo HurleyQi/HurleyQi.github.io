@@ -7,11 +7,8 @@ category: work
 related_publications: true
 ---
 
-This C++-based project provides a functioning operating system kernel on x86-32 bit architecture. 
-It features support for interrupts, multi-threading, virtual memory, file systems, kernel-user 
-seperation, and is capable of operating on a multi-processing system.
+This Python-based project adapts a Large Language Models (LLM) to predict the functional activity 
+of enhancer sequences, focusing on genomic regulatory elements. 
 
-The kernel also supports hardware interrupts, PS/2 keyboard inputs, and 
-includes graphics rendering capabilities for playing Donkey Kong.
 
 Please contact me at [hurleyqi@utexas.edu](mailto:hurleyqi@utexas.edu) if you are interested. 
