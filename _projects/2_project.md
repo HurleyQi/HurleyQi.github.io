@@ -16,4 +16,4 @@ matrix-matrix multiplication, and an assembly micro-kernel for enhanced performa
 The algorithm supports matrices stored in both column and row order, 
 accommodates matrices of any size and shape, and includes a separate routine optimized for small matrices.
 
-Please contact me at [hurleyqi\@utexas.edu](mailto:hurleyqi@utexas.edu?subject=Test) if you are interested. 
+Please contact me at [hurleyqi@utexas.edu](mailto:hurleyqi@utexas.edu) if you are interested. 
