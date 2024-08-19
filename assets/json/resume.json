@@ -68,6 +68,11 @@
       ]
     }
   ],
+  "publications": [
+    {
+      "name": "Himanshu Reddy, Kangsheng Qi, Michael Zeosky, S. Stephen Yi. Understanding the Parallelizability of Gibbs Sampling for DNA Motif Finding. Status: Under Review at Computational and Structural Biology"
+    }
+  ],
   "education": [
     {
       "institution": "The University of Texas at Austin",
