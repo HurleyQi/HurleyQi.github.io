@@ -5,14 +5,7 @@
     "email": "hurleyqi@utexas.edu",
     "phone": "(713) 501-9426",
     "url": "https://hurleyqi.github.io/",
-    "summary": "Motivated and highly skilled candidate with Bachelor's degrees in Computer Science and Mathematics, and strong foundation and research experience in computer science and computational biology. Experienced in machine learning, bioinformatics, and data analysis. Eager to pursue a Ph.D. to further investigate the intersections of biology, computer science, and mathematics",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "Motivated and highly skilled candidate with Bachelor's degrees in Computer Science and Mathematics, and strong foundation and research experience in computer science and computational biology. Experienced in machine learning, bioinformatics, and data analysis. Eager to pursue a Ph.D. to further investigate the intersections of biology, computer science, and mathematics"
   },
   "work": [
     {
@@ -22,44 +15,46 @@
       "endDate": "Present",
       "summary": [
         "Conduct interviews with distinguished faculty members on advanced multidisciplinary research projects",
-        "Assist graduate students with administrative tasks, including on boarding, coordinating project activities, and others", 
-        "Organize events featuring distinguished speakers, handling logistics such as venue arrangements and promotional activities"
+        "Write articles that highlight significant student and faculty achievements, as well as notable events and profiles",
+        "Provide administrative support to graduate students, including assisting with on-boarding, organizing social events, and coordinating community outreach",
+        "Design and produce the institution's annual report, ensuring accurate and professional presentation of research outcomes and institutional achievements"
       ]
     }, 
-    {
-      "name": "PHYZ Lab, UT Austin",
-      "position": "Undergraduate Research Intern",
-      "startDate": "2024-06",
-      "endDate": "Present",
-      "summary": [
-        "Utilized chaos theory, time series analysis, deep learning, neural networks, and mathematical modeling to predict NICU patient health patterns, septic rates, and discharge times. This work, supervised by Dr. Joshua Chang, aimed to enhance medical treatment applications and support healthcare professionals",
-        "Collaborated with medical professionals, clinicians, and distinguished researchers to understand and provide feedback on various projects, including electroceuticals, gait analysis, and delirium forecasting"
-      ]
-    },
     {
       "name": "Dr. Can Cenik Lab, UT Austin",
       "position": "Undergraduate Research Assistant",
       "startDate": "2024-01",
       "endDate": "Present",
       "summary": [
-        "Investigate translation efficiency on C. Elegans genes utilizing in-lab softwares",
-        "Develop advanced methods for functional prediction based on translation efficiency calculations",
-        "Predict novel gene function for C. Elegans genes based and obtained validation from collaborators"
+        "Investigate translation efficiency (TE) of Caenorhabditis elegans genes through ribosome profiling and RNA sequencing data using in-lab softwares",
+        "Predict novel gene function for Caenorhabditis elegans genes based on TE calculations and collaborate with experimental team for validation",
+        "Develop advanced machine learning algorithms to enhance TE-based functional predictions"
       ]
     }, 
+    {
+      "name": "PHYZ Lab, UT Austin",
+      "position": "Undergraduate Research Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": [
+        "Applied chaos theory concepts, time series analysis, and deep learning methods to neonatal intensive care unit (NICU) patient heart rate data for bradycardia prediction ",
+        "Designed a real-time monitoring system for clinical use, aimed at improving medical treatments applications and supporting healthcare professionals",
+        "Collaborated with clinicians and researchers on multiple projects, including electroceuticals, gait analysis, and delirium forecasting, to provide computational insights and feedback"
+      ]
+    },
     {
       "name": "Dr. Stephen Yi Lab, UT Austin",
       "position": "Undergraduate Research Assistant",
       "startDate": "2023-12",
       "endDate": "2024-05",
       "summary": [
-        "Conducted research focused on enhancer motif analysis and DNA functional prediction utilizing machine learning, concurrency, and other computational biology techniques",
-        "Contributed to the curation of a comprehensive antibody/antigen mutation dataset "
+        "Improved the efficiency of a Gibbs sampling motif-finding algorithm through parallelization techniques",
+        "Contributed to the curation of a comprehensive antibody/antigen mutation dataset"
       ]
     }, 
     {
       "name": "Department of Mathematics, UT Austin",
-      "position": "Undergraduate Course Assistant",
+      "position": "Undergraduate Course Assistant (Probability I)",
       "startDate": "2023-08",
       "endDate": "2023-12",
       "summary": [
@@ -141,27 +136,37 @@
   ],
   "projects": [
     {
-      "name": "Understanding the Parallelizability of Gibbs Sampling for DNA Motif Finding (Paper in Review)",
+      "name": "HyenaEnhancer (Manuscript in Preparation)",
       "highlights": [
-        "Investigated the impact of CUDA parallelizability on parameters and efficiency of Gibbs Sampling motif finding"
+        "Adapted a Large Language Models (LLM) to predict the functional activity of enhancer sequences, focusing on genomic regulatory elements",
+        "Conducted a comparative analysis of LLM against Convolutional Neural Networks (CNN) for enhancer prediction, exploring the advantages and limitations of each"
       ],
       "startDate": "2024-02",
       "endDate": "Present"
     },
     {
-      "name": "HyenaEnhancer (Project/Paper)",
+      "name": "High Performance Matrix Matrix Multiplication",
       "highlights": [
-        "Adapted a Large Language Models (LLM) to predict the functional activity of enhancer sequences", 
-        "Conducted a comparative analysis of LLM against Convolutional Neural Networks (CNN) for enhancer prediction, exploring the advantages and limitations of each"
+        "Utilized blocking, five loops, and assembly microkernel to implement a matrix matrix multiplication algorithm optimized for near-peak performance on Haswell microarchitecture", 
+        "Ensured algorithmic correctness and high performance across matrices of varying sizes, shapes, and storage patterns"
       ],
       "startDate": "2024-01",
-      "endDate": "Present"
+      "endDate": "2024-03"
+    },
+    {
+      "name": "Operating System Kernel with Donkey Kong Game",
+      "highlights": [
+        "Implemented an operating system kernel with virtual memory, file systems, multi-processing support on a x86-32 bit architecture",
+        "Collaborated with a team to integrate keyboard input handling, hardware interrupts, and graphics rendering to enable the Donkey Kong game to run on the custom OS kernel"
+      ],
+      "startDate": "2024-01",
+      "endDate": "2024-05"
     },
     {
       "name": "Student Record System (Project)",
       "highlights": [
-        "Designed and implemented a three-tier architecture framework utilizing a MySQL database for efficient management of student data, including class schedule and personal information", 
-        "Ensured data persistence through MyBatis and integrated web functionalities using Jakarta Servlet"
+        "Designed and implemented a three-tier architecture framework with a MySQL database for efficient management of student data, such as class schedule, personal information and others", 
+        "Ensured data persistence through MyBatis and integrated web functionalities using Jakarta Servlet for dynamic user interaction"
       ],
       "startDate": "2023-05",
       "endDate": "2023-06",
