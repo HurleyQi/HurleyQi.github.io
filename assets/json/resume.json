@@ -13,7 +13,7 @@
       "position": "Student Associate",
       "startDate": "2023-09",
       "endDate": "Present",
-      "summary": [
+      "highlights": [
         "Conduct interviews with distinguished faculty members on advanced multidisciplinary research projects",
         "Write articles that highlight significant student and faculty achievements, as well as notable events and profiles",
         "Provide administrative support to graduate students, including assisting with on-boarding, organizing social events, and coordinating community outreach",
@@ -25,7 +25,7 @@
       "position": "Undergraduate Research Assistant",
       "startDate": "2024-01",
       "endDate": "Present",
-      "summary": [
+      "highlights": [
         "Investigate translation efficiency (TE) of Caenorhabditis elegans genes through ribosome profiling and RNA sequencing data using in-lab softwares",
         "Predict novel gene function for Caenorhabditis elegans genes based on TE calculations and collaborate with experimental team for validation",
         "Develop advanced machine learning algorithms to enhance TE-based functional predictions"
@@ -36,7 +36,7 @@
       "position": "Undergraduate Research Intern",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": [
+      "highlights": [
         "Applied chaos theory concepts, time series analysis, and deep learning methods to neonatal intensive care unit (NICU) patient heart rate data for bradycardia prediction ",
         "Designed a real-time monitoring system for clinical use, aimed at improving medical treatments applications and supporting healthcare professionals",
         "Collaborated with clinicians and researchers on multiple projects, including electroceuticals, gait analysis, and delirium forecasting, to provide computational insights and feedback"
@@ -47,7 +47,7 @@
       "position": "Undergraduate Research Assistant",
       "startDate": "2023-12",
       "endDate": "2024-05",
-      "summary": [
+      "highlights": [
         "Improved the efficiency of a Gibbs sampling motif-finding algorithm through parallelization techniques",
         "Contributed to the curation of a comprehensive antibody/antigen mutation dataset"
       ]
@@ -57,7 +57,7 @@
       "position": "Undergraduate Course Assistant (Probability I)",
       "startDate": "2023-08",
       "endDate": "2023-12",
-      "summary": [
+      "highlights": [
         "Collaborated with instructors on grading criteria, provided constructive feedback to students",
         "Managed unforeseen challenges, including student medical emergencies and miscommunications, to ensure the smooth flow of the course"
       ]
