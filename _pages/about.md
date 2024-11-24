@@ -15,9 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Computer Science and Mathematics student at [UT Austin](https://www.utexas.edu/). I am passionate about applying the methods and advancements of computer science to other scientific disciplines, especially biology and medicine. My primary interests are in studying computational biology, machine learning, and computational medicine.
+I am currently a Computer Science and Mathematics student at [UT Austin](https://www.utexas.edu/). My research largely 
+focuses on developing computational tools to analyze large molecular datasets at the translational level and utilizing clinical physiological data to model patient health and treatment response. My primary interests are in computational biology, computational medicine, bioinformatics, machine learning, and high performance computing. 
 
-My currency goal is to pursue a Ph.D. in Computer Science to further develop my skills and expertise in these areas. My research experience includes applying machine learning models to predict DNA functional activity at Dr. Stephen Yi’s Lab. I was a summer research intern, provided through the [Moncrief Summer Internship Program](https://oden.utexas.edu/academics/undergraduates/moncrief-summer-internship/), at the [PHYZ Lab](https://phyzlab.org/) at UT’s Dell Medical School, where I worked on applying machine learning and mathematical forecasting methods to NICU health data. Currently, I am an undergraduate research assistant at [Dr. Can Cenik’s Lab](https://ceniklab.github.io/), focusing on computational techniques related to protein abundance and gene expression studies.
+My current goal is to pursue a Ph.D. in Computer Science to further develop my skills and expertise in these areas. My research experience includes applying machine learning models to predict DNA functional activity at [Livestrong Cancer Institutes](https://dellmed.utexas.edu/units/livestrong-cancer-institutes). I was a summer research intern, provided through the [Moncrief Summer Internship Program](https://oden.utexas.edu/academics/undergraduates/moncrief-summer-internship/), at the [PHYZ Lab](https://phyzlab.org/) at UT’s Dell Medical School, where I worked on applying machine learning and mathematical forecasting methods to NICU health data. Currently, I am an undergraduate research assistant at [Dr. Can Cenik’s Lab](https://ceniklab.github.io/), focusing on applying graph neural networks to predict gene/protein functions. 
 
 In addition to my research experience, I have gained classroom experience as a course assistant in the Department of Mathematics. I am also interested in the administrative aspects of graduate studies, currently serving as a student associate at the administrative office of the Oden Institute.
 
@@ -25,12 +26,3 @@ I am a big fan of Star Wars and The Lord of the Rings. In my free time, I enjoy 
 
 Feel free to contact me if we share any interests.
 
-
-
-<!-- Hello, testing, testing. 
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

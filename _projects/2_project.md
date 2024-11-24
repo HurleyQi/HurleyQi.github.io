@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Student Record System (Project)
+title: High Performance Matrix Matrix Multiplication
 img: assets/img/matrix_multiplication.jpg
-importance: 2
+importance: 3
 category: work
 related_publications: true
 ---
