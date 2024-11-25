@@ -1,10 +1,10 @@
 ---
 layout: page
 title: High Performance Matrix Matrix Multiplication
-img: assets/img/matrix_multiplication.jpg
+# img: assets/img/matrix_multiplication.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This C-based project provides a matrix-matrix multiplication routine that is capable of achieving

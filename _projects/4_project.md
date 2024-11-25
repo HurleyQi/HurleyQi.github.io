@@ -1,10 +1,10 @@
 ---
 layout: page
 title: HyenaEnhancer
-img: assets/img/hyena_dna.jpg
+# img: assets/img/hyena_dna.jpg
 importance: 5
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This Python-based project adapts a Large Language Models (LLM) to predict the functional activity 

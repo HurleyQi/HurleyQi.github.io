@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Operating System with Donkey Kong Game
-img: assets/img/donkey_kong.jpg
+# img: assets/img/donkey_kong.jpg
 importance: 4
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This C++-based project provides a functioning operating system kernel on x86-32 bit architecture. 

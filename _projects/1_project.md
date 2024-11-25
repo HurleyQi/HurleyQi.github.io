@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Student Record System
-img: assets/img/student_record.jpg
+# img: assets/img/student_record.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This [Java](https://www.java.com/en/)-based project integrates with [MySQL](https://www.mysql.com/) databases using both JDBC for direct server connections and [MyBatis](https://mybatis.org/mybatis-3/), a persistence framework facilitating Java application interaction with relational databases. The frontend utilizes [Tomcat](https://tomcat.apache.org/), an implementation of Java Servlets, to manage user interactions.
