@@ -180,6 +180,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  writings:
+    output: true
+    permalink: /writings/:path/
 
 announcements:
   enabled: false

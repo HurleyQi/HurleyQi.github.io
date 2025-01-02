@@ -4,7 +4,7 @@ title: writings
 permalink: /writings/
 description: Here are some of the writings I've worked on. Please visit my Github Page for more details.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [writings]
 horizontal: true
 ---
