@@ -11,7 +11,7 @@ horizontal: true
 
 <!-- pages/writings.md -->
 <div class="writings">
-{% if site.enable_project_categories and page.display_categories %}
+{% if site.enable_writing_categories and page.display_categories %}
   <!-- Display categorized writings -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">

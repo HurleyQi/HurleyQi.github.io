@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Student Record System
-# img: assets/img/student_record.jpg
 importance: 2
 category: work
 related_publications: false
