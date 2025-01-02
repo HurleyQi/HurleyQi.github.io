@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: writings
 permalink: /projects/
 description: Here are some of the projects I've worked on. Please visit my Github Page for more details.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [work]
 horizontal: false
 ---
