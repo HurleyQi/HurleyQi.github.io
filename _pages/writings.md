@@ -1,7 +1,7 @@
 ---
 layout: page
 title: writings
-permalink: /writings/
+permalink: /projects/
 description: Here are some of the writings/notes I've worked on. Please visit my Github Page for more details.
 nav: true
 nav_order: 1
