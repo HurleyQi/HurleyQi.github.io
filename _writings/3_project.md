@@ -3,7 +3,7 @@ layout: page
 title: Operating System with Donkey Kong Game
 # img: assets/img/donkey_kong.jpg
 importance: 4
-category: work
+category: writings
 related_publications: false
 ---
 
