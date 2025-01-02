@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: writings
+permalink: /writings/
 description: Here are some of the projects I've worked on. Please visit my Github Page for more details.
 nav: true
 nav_order: 3
-display_categories: [work]
-horizontal: false
+display_categories: [writings]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
