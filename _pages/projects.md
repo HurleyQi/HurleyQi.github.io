@@ -6,7 +6,7 @@ description: Here are some of the notes, unpublished works, and writings I’ve 
 nav: true
 nav_order: 3
 display_categories: [writings, projects]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
