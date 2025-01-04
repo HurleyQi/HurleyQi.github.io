@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploring Applications of Graphs Theory in Biology
-writing_pdf: Kangsheng_Qi_CV.pdf
+writing_pdf: Exploring_Applications_of_Graphs_and_Graph_Algorithms_in_Biology.pdf
 importance: 1
 category: writings
 related_publications: false
