@@ -4,7 +4,7 @@ title: writings
 permalink: /writings/
 description: Here are some of the notes, unpublished works, and writings I’ve worked on, reflecting the topics I’m interested in and have explored. These works are mostly incomplete and continuously updated, with the most recent version noted within each document. None of these works are currently published or available on any preprint servers. If you wish to cite any of them, I can provide a self-written BibTeX citation. Feel free to contact me if you notice any errors or if we share similar interests, or for potential collaborations. Additionally, I’ve included some of the projects I’ve worked on. For more details on these, please visit my GitHub page.
 nav: true
-nav_order: 1
+nav_order: 3
 display_categories: [writings, projects]
 horizontal: false
 ---
