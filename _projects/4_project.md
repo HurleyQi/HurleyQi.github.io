@@ -3,7 +3,7 @@ layout: page
 title: HyenaEnhancer
 # img: assets/img/hyena_dna.jpg
 importance: 5
-category: work
+category: projects
 related_publications: false
 ---
 

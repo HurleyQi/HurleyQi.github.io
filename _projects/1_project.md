@@ -2,7 +2,7 @@
 layout: page
 title: Student Record System
 importance: 2
-category: work
+category: projects
 related_publications: false
 ---
 

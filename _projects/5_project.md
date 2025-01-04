@@ -2,7 +2,7 @@
 layout: page
 title: Ribosome Profiling Periodicity Pipeline
 importance: 1
-category: work
+category: projects
 related_publications: false
 ---
 

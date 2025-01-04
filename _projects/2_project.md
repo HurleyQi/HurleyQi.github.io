@@ -1,9 +1,8 @@
 ---
 layout: page
 title: High Performance Matrix Matrix Multiplication
-# img: assets/img/matrix_multiplication.jpg
 importance: 3
-category: work
+category: projects
 related_publications: false
 ---
 

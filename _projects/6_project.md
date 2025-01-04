@@ -2,7 +2,7 @@
 layout: page
 title: Convolution Long Short-Term Memory Networks (CNN-LSTM)
 importance: 1
-category: work
+category: projects
 related_publications: false
 ---
 
