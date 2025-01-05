@@ -17,8 +17,7 @@ related_publications: false
     target="_blank"
     rel="noopener noreferrer"
     class="float-right"
-    ><i class="fa-solid fa-file-pdf fa-3x"></i
-></a>
+    ><i class="fa-solid fa-file-pdf fa-3x"></i></a>
 
 
 
