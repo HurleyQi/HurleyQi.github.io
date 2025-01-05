@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploring Applications of Graphs Theory in Biology
-writing_pdf: Exploring_Applications_of_Graphs_and_Graph_Algorithms_in_Biology.pdf
+# writing_pdf: Exploring_Applications_of_Graphs_and_Graph_Algorithms_in_Biology.pdf
 importance: 1
 category: writings
 related_publications: false
@@ -18,7 +18,7 @@ related_publications: false
     rel="noopener noreferrer"
     class="float-right"
     ><i class="fa-solid fa-file-pdf fa-3x"></i></a>
-
+<br>
 
 
 ## Citation: ##
