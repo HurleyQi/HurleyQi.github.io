@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Computer Science and Mathamatics Student at UT Austin
+subtitle: Undergraduate Computer Science and Mathematics Student at UT Austin
 
 profile:
   align: right
